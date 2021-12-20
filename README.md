@@ -1,7 +1,7 @@
 # Heterogeneous Graph Neural Network via Attribute Completion
 This repository contains the demo code of the paper:
 >[Heterogeneous Graph Neural Network via Attribute Completion](https://doi.org/10.1145/3442381.3449914)
-
+`jacky modify at 12.20`
 which has been accepted by *WWW2021*.
 ## Dependencies
 * Python3
